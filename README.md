@@ -1,6 +1,6 @@
 # Exercise 3.12 Average of a list
 
-The exercise template contains a base that reads numbers from the user and adds them to a list. Reading is stopped once the user enters the number -1.
+Write a program that asks the user for input and adds it to a list. The program stops reading when the user enters -1.
 
 When reading ends, calculate the average of the numbers in it, and then print that value.
 
