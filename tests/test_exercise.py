@@ -18,4 +18,4 @@ def test_exercise():
 
     src.exercise.main()
 
-    assert output[0:4] == ["","","","","Average: 21"]
+    assert output == ["","","","","","Average: 21.0"]
